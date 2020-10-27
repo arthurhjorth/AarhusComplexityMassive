@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Aarhus University Complexity Massive
 
-You can use the [editor on GitHub](https://github.com/arthurhjorth/AarhusComplexityMassive/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Are you interested in complexity science? Agent-based modeling? Network dynamics? Then you're in the right place1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+AUCompass is an interest group for Complexity Science. We meet every so often, to talk about models, discuss papers or our own research, and to find new and fun ways of collaborating with each other, and colleagues across campus. 
 
-### Markdown
+Our next meeting is on **Wednesday Nov 4th at 15:30**. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Due to Corona, we are limited to 10 people in person. This may turn out to be plenty. But to avoid problems, if you are planning on coming, please email [Iza](iromanowska@aias.au.dk) or [Arthur](arthur@mgmt.au.dk).
 
-```markdown
-Syntax highlighted code block
+Cheers,
+[Iza](https://aias.au.dk/aias-fellows/iza-romanowska/) & [Arthur](https://pure.au.dk/portal/da/persons/hermes-arthur-hjorth(b6da5c3f-dc2f-4376-a964-cec167d512e6).html)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arthurhjorth/AarhusComplexityMassive/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
