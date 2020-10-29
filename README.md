@@ -1,4 +1,4 @@
-![image](/images/ACM2.png)
+![image]( <p>/images/ACM2.png</p>)
 
 ## Welcome to Aarhus University Complexity Massive
 
