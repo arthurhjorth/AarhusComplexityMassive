@@ -1,3 +1,5 @@
+![image](/images/ACM2.png)
+
 ## Welcome to Aarhus University Complexity Massive
 
 Are you interested in complexity science? Agent-based modeling? Network dynamics? Then you're in the right place1
