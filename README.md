@@ -8,9 +8,6 @@ AarhusComplexityMassive is an interest group for Complexity Science. We meet eve
 
 Our inaugural meeting is on **Wednesday Nov 4th 15:30-16:30**. The second meeting will be on **Tuesday Nov 17th at 10:00-11:00**.
 
-
-
-
 Due to Corona, we are limited to 10 people in person. This may turn out to be plenty. But to avoid problems, if you are planning on coming, please email [Iza](iromanowska@aias.au.dk) or [Arthur](arthur@mgmt.au.dk).
 
 Cheers,
