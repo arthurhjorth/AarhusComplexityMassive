@@ -2,7 +2,7 @@
 
 ## Welcome to Aarhus University Complexity Massive
 
-Are you interested in complexity science? Agent-based modeling? Network dynamics? Then you're in the right place1
+Are you interested in complexity science? Agent-based modeling? Network dynamics? Then you're in the right place!
 
 AarhusComplexityMassive is an interest group for Complexity Science. We meet every two weeks, to talk about models, discuss papers or our own research, ask for feedback, and to find new and fun ways of collaborating with each other, and colleagues across campus. 
 
