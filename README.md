@@ -10,7 +10,7 @@ Our inaugural meeting is on **Wednesday Nov 4th 15:30-16:30**. The second meetin
 
 The agenda for the first meeting is relatively open: We wil do introductions, discuss hopes and plans for the group, and set up presentations etc. for the next few meetings.
 
-Due to Corona, we are limited to 10 people in person. This may turn out to be plenty. But to avoid problems, if you are planning on coming, please email [Iza](iromanowska@aias.au.dk) or [Arthur](arthur@mgmt.au.dk).
+Due to Corona, we will meet online for the first meeting, until AIAS allows us back. Our hope is to be able to meet in person as soon as we can. Until then, please use this Zoom-link: https://aarhusuniversity.zoom.us/j/4024649019
 
 Cheers,
 [Iza](https://aias.au.dk/aias-fellows/iza-romanowska/) & [Arthur](https://pure.au.dk/portal/da/persons/hermes-arthur-hjorth(b6da5c3f-dc2f-4376-a964-cec167d512e6).html)
