@@ -1,0 +1,7 @@
+docs:
+  - title: Quick Links
+    children:
+      - title: "Contact Iza & Arthur"
+        url: /docs/contact/
+      - title: "Mailing List"
+        url: /docs/mailinglist/
