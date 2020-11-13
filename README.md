@@ -4,6 +4,8 @@
 
 Are you interested in complexity science? Agent-based modeling? Network dynamics? Then you're in the right place!
 
+[Sign up for our mailing list here!](https://maillist.au.dk/mailman/listinfo/aarhuscomplexitymassive.aias)
+
 AarhusComplexityMassive is an interest group for Complexity Science. We meet every two weeks, to talk about models, discuss papers or our own research, ask for feedback, and to find new and fun ways of collaborating with each other, and colleagues across campus. 
 
 Our inaugural meeting is on **Wednesday Nov 4th 15:30-16:30**. The second meeting will be on **Tuesday Nov 17th at 10:00-11:00**.
