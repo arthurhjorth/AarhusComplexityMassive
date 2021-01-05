@@ -14,9 +14,9 @@ AarhusComplexityMassive is an interest group for Complexity Science. We meet eve
 ** Participants are expected to find a copy of the book and read the first four chapters. If you are unable to find it, get in touch and we will see if we can help.
 * Guiding questions for reading:
 
--- What assumptions is the author making about human nature, and about human social processes?
--- Does the author's background as economist shine through in their description of humans?
--- Do you contest any of these assumptions? How, why?
+    What assumptions is the author making about human nature, and about human social processes?
+    Does the author's background as economist shine through in their description of humans?
+    Do you contest any of these assumptions? How, why?
 
 
 **Scheduled Future Presentations: (dates are set, but the order of presentations might change)**
