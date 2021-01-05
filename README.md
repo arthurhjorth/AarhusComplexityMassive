@@ -21,14 +21,14 @@ AarhusComplexityMassive is an interest group for Complexity Science. We meet eve
 
 **Scheduled Future Presentations: (dates are set, but the order of presentations might change)**
 
-** Feb 2nd: Arthur Hjorth presents "Complex Systems Thinking in Education"
-** Feb 17th: Ida Bang-Hansen presents NetLogo-based complex systems thinking educational activities from middle school to the university level
-** Mar 2nd: Peter Thestrup Waade presents his PhD dissertation project proposal
-** Mar 17th: Christoffer Lunbdak Olesen presents his master's dissertation proposal on combining information theory and complexity science.
+* Feb 2nd: Arthur Hjorth presents "Complex Systems Thinking in Education"
+* Feb 17th: Ida Bang-Hansen presents NetLogo-based complex systems thinking educational activities from middle school to the university level
+* Mar 2nd: Peter Thestrup Waade presents his PhD dissertation project proposal
+* Mar 17th: Christoffer Lunbdak Olesen presents his master's dissertation proposal on combining information theory and complexity science.
 
 
 **Unscheduled presentations:**
-** Anna Agermose Hinrichsen: Master's dissertation on modeling human emotional responses to COVID19-isolation, and its impact on education completion.
+* Anna Agermose Hinrichsen: Master's dissertation on modeling human emotional responses to COVID19-isolation, and its impact on education completion.
 
 
 
