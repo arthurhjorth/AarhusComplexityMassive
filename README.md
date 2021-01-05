@@ -10,8 +10,7 @@ AarhusComplexityMassive is an interest group for Complexity Science. We meet eve
 
 **Our next meeting is on Wednesday January 20th 2021 15:30-16:30**
 
-* Iza Romanowska will facilitate a discussion on the first 4 chapters of The Model Thinker. 
-** Participants are expected to find a copy of the book and read the first four chapters. If you are unable to find it, get in touch and we will see if we can help.
+* Iza Romanowska will facilitate a discussion on the first 4 chapters of The Model Thinker. _Participants are expected to find a copy of the book and read the first four chapters. If you are unable to find it, get in touch and we will see if we can help._
 * Guiding questions for reading:
 
     What assumptions is the author making about human nature, and about human social processes?
