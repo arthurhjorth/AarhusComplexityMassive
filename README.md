@@ -9,11 +9,14 @@ Are you interested in complexity science? Agent-based modeling? Network dynamics
 AarhusComplexityMassive is an interest group for Complexity Science. We meet every two weeks, to talk about models, discuss papers or our own research, ask for feedback, and to find new and fun ways of collaborating with each other, and colleagues across campus. 
 
 **Our next meeting is on Tuesday Feb 2nd 2021 10:00-11**
+
 Arthur Hjorth presents "Complex Systems Thinking in Education". Complex Systems and Agent-Based Modeling are increasingly used in education. In this talk, I present 
  * what is Complex Systems Thinking?
  * what does it mean to get better at it? (i.e. what is "learning" in the context of complex systems thinking?)
  * how do we design good Complex Systems Thinking learning activities?
  * how do we document it empirically? What are good methods for ?
+
+
 
 **Scheduled Future Presentations: (dates are set, but the order of presentations might change)**
 
