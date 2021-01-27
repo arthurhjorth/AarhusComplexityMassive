@@ -22,7 +22,7 @@ Arthur Hjorth presents "Complex Systems Thinking in Education". Complex Systems 
 
 * Feb 17th: Ida Bang-Hansen presents NetLogo-based complex systems thinking educational activities from middle school to the university level
 * Mar 2nd: Peter Thestrup Waade presents his PhD dissertation project proposal
-* Mar 17th: Christoffer Lunbdak Olesen presents his master's dissertation proposal on combining information theory and complexity science.
+* Mar 17th: Christoffer Lundbak Olesen presents his master's dissertation proposal on combining information theory and complexity science.
 
 
 **Unscheduled presentations:**
